@@ -1,6 +1,8 @@
-# Master's degree assignment
+# Master's degree 
 
-## Assignment from book: Head First Design Patterns - Eric Freeman & Elisabeth reeman - page 395
+## Assignment from book: Head First Design Patterns - Eric Freeman & Elisabeth Freeman - page 395
+
+In this project I've learned StatePattern. 
 
 Draw a state diagram for a Gumball Machine that handles the 1 in 10 contest. In this contest, 10% of the time the Sold state leads to 
 two balls being released, not one.
