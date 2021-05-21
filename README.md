@@ -1,4 +1,4 @@
-# Master's degree assignment - 
+# Master's degree assignment
 
 ## Assignment from book: Head First Design Patterns - Eric Freeman & Elisabeth reeman - page 395
 
